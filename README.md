@@ -17,3 +17,10 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Create GitHub repository
 - Updated README  file with problem,solution,Tech stack
 - Defined project scope 
+#### DAY 2 -JULY 15
+- Download superstore sales Dataset from kaggle
+- Analyzed sales by category in Excel
+- Analyzed profit by category in Excel
+- created charts for data visulization
+- uploaded Excel file:[Excel_assigment.xlsx](Excel_assigment.xlsx)
+  
