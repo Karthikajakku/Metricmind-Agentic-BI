@@ -23,4 +23,17 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Analyzed profit by category in Excel
 - created charts for data visulization
 - uploaded Excel file:[Excel_assigment.xlsx](Excel_assigment.xlsx)
-  
+  ### DAY 3 JULY 17 - Snowflake Environment Setup
+  - Created a Snowflake Trial account.
+- Explored the Snowflake Snowsight interface.
+- Created the METRICMIND_DB database.
+- Created the SUPERSTORE table.
+- Uploaded the Sample Superstore dataset into Snowflake.
+- Verified that the data was loaded successfully.
+- Executed basic SQL queries:
+  - SELECT * FROM SUPERSTORE LIMIT 10;
+  - SELECT COUNT(*);
+  - SUM(SALES), SUM(PROFIT);
+  - COUNT(DISTINCT ORDER_ID);
+- Fixed table schema and data loading issues.
+  - 
