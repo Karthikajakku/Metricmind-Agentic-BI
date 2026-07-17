@@ -23,7 +23,7 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Analyzed profit by category in Excel
 - created charts for data visulization
 - uploaded Excel file:[Excel_assigment.xlsx](Excel_assigment.xlsx)
-  ### DAY 3 JULY 17 - Snowflake Environment Setup
+### DAY 3 JULY 17 - Snowflake Environment Setup
   - Created a Snowflake Trial account.
 - Explored the Snowflake Snowsight interface.
 - Created the METRICMIND_DB database.
