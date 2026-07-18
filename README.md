@@ -36,4 +36,12 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
   - SUM(SALES), SUM(PROFIT);
   - COUNT(DISTINCT ORDER_ID);
 - Fixed table schema and data loading issues.
-  - 
+  ###DAY 4 JULY 18 - dbt Setup and Snowflake Connection
+  - Installed dbt Core
+  - Installed dbt Snowflake adapter
+ - Verified dbt installation
+ - Created MetricMind dbt project
+ - Started Snowflake connection configuration
+ - Ran dbt debug
+ - Two configuration checks are pending and will be fixed next session
+    
