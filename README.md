@@ -37,7 +37,7 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
   - COUNT(DISTINCT ORDER_ID);
 - Fixed table schema and data loading issues.
   
-  ###DAY 4 JULY 18 - dbt Setup and Snowflake Connection
+  ### DAY 4 JULY 18 - dbt Setup and Snowflake Connection
   - Installed dbt Core
   - Installed dbt Snowflake adapter
  - Verified dbt installation
