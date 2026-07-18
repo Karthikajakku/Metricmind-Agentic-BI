@@ -1,0 +1,8 @@
+-- Day 4: dbt Setup and Snowflake Connection
+-- Installed dbt Core
+-- Installed dbt Snowflake adapter
+-- Verified dbt installation
+-- Created MetricMind dbt project
+-- Started Snowflake connection configuration
+-- Ran dbt debug
+-- Two configuration checks are pending and will be fixed next session
