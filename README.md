@@ -41,6 +41,12 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
   - Installed dbt Core
   - Installed dbt Snowflake adapter
  - Verified dbt installation
+
+ - ### DAY 5 JULY 20
+- Completed dbt staging and cleaning models
+- Verified 9,994 records
+- Performed business analysis using Snowflake SQL
+- Created KPI summary for Total Orders, Customers, Sales, Profit, Discount, and Quantity
  - Created MetricMind dbt project
  - Started Snowflake connection configuration
  - Ran dbt debug
