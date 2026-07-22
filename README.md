@@ -47,8 +47,16 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Verified 9,994 records
 - Performed business analysis using Snowflake SQL
 - Created KPI summary for Total Orders, Customers, Sales, Profit, Discount, and Quantity
- - Created MetricMind dbt project
- - Started Snowflake connection configuration
+
+  ### DAY 6 JULY 21
+- Set up the Cube project for the MetricMind analytics platform.
+- Installed and configured Cube CLI.
+- Installed the Snowflake driver.
+- Configured Snowflake database, schema, warehouse, and account details.
+- Started the Cube development server.
+- Identified and worked on the Snowflake connection configuration issue.
+- Created MetricMind dbt project
+- Started Snowflake connection configuration
  - Ran dbt debug
  - Two configuration checks are pending and will be fixed next session
     
