@@ -36,18 +36,15 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
   - SUM(SALES), SUM(PROFIT);
   - COUNT(DISTINCT ORDER_ID);
 - Fixed table schema and data loading issues.
-  
   ### DAY 4 JULY 18 - dbt Setup and Snowflake Connection
   - Installed dbt Core
   - Installed dbt Snowflake adapter
  - Verified dbt installation
-
- - ### DAY 5 JULY 20
+  ### DAY 5 JULY 20
 - Completed dbt staging and cleaning models
 - Verified 9,994 records
 - Performed business analysis using Snowflake SQL
 - Created KPI summary for Total Orders, Customers, Sales, Profit, Discount, and Quantity
-
   ### DAY 6 JULY 21
 - Set up the Cube project for the MetricMind analytics platform.
 - Installed and configured Cube CLI.
@@ -62,6 +59,12 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Verified project folder structure.
 - Tested Cube.js server startup.
 - Identified initial connection issues.
+  ### DAY 8 JULY 23
+- Installed required npm packages.
+- Updated Cube.js configuration.
+- Resolved package installation issues.
+- Verified Node.js and npm environment.
+- Tested Cube.js development server.
   
 
 - ### # Day 7 JULY 27
