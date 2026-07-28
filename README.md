@@ -55,6 +55,14 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Configured Snowflake database, schema, warehouse, and account details.
 - Started the Cube development server.
 - Identified and worked on the Snowflake connection configuration issue.
+  ### DAY 7 JULY 22
+- Created Cube.js project.
+- Configured Snowflake account details.
+- Added database, warehouse and schema configuration.
+- Verified project folder structure.
+- Tested Cube.js server startup.
+- Identified initial connection issues.
+  
 
 - ### # Day 7 JULY 27
 - Superstore Sales Dashboard Development
