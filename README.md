@@ -119,5 +119,12 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Implemented Orders by Category bar chart using Recharts
 - Fixed React JSX and rendering issues
 - Verified dashboard functionality in the local development environment
-  
 - 
+  ### DAY 12 JULY 29
+ - Refactored the React dashboard code structure
+- Fixed JSX rendering and component issues
+- Added KPI cards for Total Sales, Total Orders, and Categories
+- Implemented Orders by Category visualization
+- Added Sales by Region, Sales by Segment, Profit by Category, and Sales Trend charts
+- Improved dashboard UI layout and responsiveness
+- Tested the dashboard successfully in the local development environment
