@@ -75,11 +75,8 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Prepared the backend for React integration.
 - ## Status
 ✅ Cube.js Backend Ready
-- ### Day 7 JULY 27
+- ### Day 10 JULY 27
 - Superstore Sales Dashboard Development
-## Objective
-Develop the dashboard interface and start Cube.js integration.
-
 ## Work Completed
 - Created Superstore Sales Dashboard using React.
 - Designed KPI Cards:
@@ -115,6 +112,12 @@ Develop the dashboard interface and start Cube.js integration.
 - Charts Completed ✅
 - Cube.js Configured ✅
 - Live Data Integration In Progress 🔄
-
-ing and will be fixed next session
-    
+   ### DAY 11 JULY 28
+- Connected React frontend with Cube.js
+- Configured Cube API integration
+- Displayed live Total Orders from Snowflake
+- Implemented Orders by Category bar chart using Recharts
+- Fixed React JSX and rendering issues
+- Verified dashboard functionality in the local development environment
+  
+- 
