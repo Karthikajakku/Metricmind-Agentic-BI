@@ -74,7 +74,7 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Tested Cube.js queries.
 - Prepared the backend for React integration.
 - ## Status
-✅ Cube.js Backend Ready
+ Cube.js Backend Ready
 - ### Day 10 JULY 27
 - Superstore Sales Dashboard Development
 ## Work Completed
@@ -108,10 +108,10 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Restored dashboard successfully.
 - Verified Cube.js server and Playground.
 ## Status
-- Dashboard UI Completed ✅
-- Charts Completed ✅
-- Cube.js Configured ✅
-- Live Data Integration In Progress 🔄
+- Dashboard UI Completed 
+- Charts Completed 
+- Cube.js Configured 
+- Live Data Integration In Progress 
    ### DAY 11 JULY 28
 - Connected React frontend with Cube.js
 - Configured Cube API integration
