@@ -128,3 +128,19 @@ Build a production-ready conversational BI Tool that finance teams can trust 100
 - Added Sales by Region, Sales by Segment, Profit by Category, and Sales Trend charts
 - Improved dashboard UI layout and responsiveness
 - Tested the dashboard successfully in the local development environment
+
+  ### DAY 13 AUG 3
+Verified Git repository status using git status.
+Verified remote repository configuration using git remote -v.
+Investigated GitHub authentication issue during git push.
+Diagnosed Git Credential Manager using git credential-manager diagnose (all checks passed).
+Identified system-level credential.helper=manager configuration causing browser OAuth issues.
+Removed system credential helper configuration with administrator privileges.
+Configured Git to use credential.helper=store.
+Successfully switched authentication flow from browser OAuth to terminal username/password prompt.
+Began configuring GitHub Personal Access Token (PAT) authentication for secure repository access.
+Status:
+Repository configuration is correct.
+Authentication flow is fixed up to terminal login.
+Remaining task: complete GitHub authentication using a valid PAT and push changes successfully.
+
