@@ -156,9 +156,7 @@ Status:
 -Practiced the complete project explanation for the review.
 -Planned documentation and UI improvements for the next phase.
 
-### DAY AUG 11
-## Day-to-Day Performance
-
+### DAY 15 AUG 11
 -Continued development of the **MetricMind – Superstore Sales Dashboard**.
 - Added **Sales by Segment** and **Profit by Category** visualizations.
 - Improved KPI card styling for Total Sales, Total Orders, and Categories.
@@ -167,3 +165,11 @@ Status:
 - Verified the Clear Filters functionality.
 - Successfully tested the dashboard after the implemented changes.
 
+### DAY 16 AUG 12
+-Added Ask MetricMind AI feature
+-Integrated Gemini AI
+-Added AI question handling
+-Connected AI with Cube.js
+-Tested natural-language sales questions
+-Verified total sales and highest-sales region results
+-Connected React dashboard with AI backend
