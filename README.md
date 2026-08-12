@@ -155,3 +155,15 @@ Status:
 -Prepared the GitHub repository for project presentation.
 -Practiced the complete project explanation for the review.
 -Planned documentation and UI improvements for the next phase.
+
+### DAY AUG 11
+## Day-to-Day Performance
+
+-Continued development of the **MetricMind – Superstore Sales Dashboard**.
+- Added **Sales by Segment** and **Profit by Category** visualizations.
+- Improved KPI card styling for Total Sales, Total Orders, and Categories.
+-Improved chart sizing, spacing, and dashboard headings.
+- Tested Region and Category filters.
+- Verified the Clear Filters functionality.
+- Successfully tested the dashboard after the implemented changes.
+
