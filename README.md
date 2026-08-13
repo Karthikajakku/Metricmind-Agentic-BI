@@ -173,3 +173,12 @@ Status:
 -Tested natural-language sales questions
 -Verified total sales and highest-sales region results
 -Connected React dashboard with AI backend
+
+### DAY 17 AUG 13
+-Enhanced the Cube.js data model by configuring Order Date as a time dimension.
+-Implemented a dynamic year-wise Sales Trend using live Cube.js data instead of hardcoded values.
+-Added year-wise sales aggregation based on the Superstore dataset.
+-Restarted and validated the Cube.js API, confirming a successful 200 OK response.
+-Resolved the React/Vite JSX parsing issue in the dashboard.
+-Verified that the React dashboard is running successfully through Vite.
+-Prepared the project for the final phase of functional testing 
