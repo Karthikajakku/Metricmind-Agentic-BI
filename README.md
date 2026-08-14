@@ -182,3 +182,16 @@ Status:
 -Resolved the React/Vite JSX parsing issue in the dashboard.
 -Verified that the React dashboard is running successfully through Vite.
 -Prepared the project for the final phase of functional testing 
+
+### DAY 18 AUG 14
+-Verified Cube.js connection and metadata API.
+-Fixed and validated the separate Gemini AI server.
+-Started AI server successfully on port 5000.
+-Tested Gemini → Cube.js query generation.
+-Tested Total Sales AI query successfully.
+-Tested Highest Sales by Region successfully — West.
+-Tested Total Profit AI query successfully.
+-Completed dashboard KPI and filter testing.
+-Verified dashboard charts and dynamic Sales Trend.
+-Confirmed the end-to-end flow: React → Gemini AI → Cube.js → Snowflake → Result.
+-Completed functional testing of the current dashboard.
